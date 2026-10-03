@@ -16,16 +16,27 @@
   {
    "id": "muslbuu2q2mj",
    "title": "回溯功能测试卡",
-   "phen": "第二版内容（已修改）",
+   "phen": "第一版内容",
    "premise": "",
    "method": "",
    "case_": "",
    "gov": "",
-   "author": "王子恒",
-   "lastEditor": "马云启",
+   "author": "马云启",
+   "lastEditor": "马云启（恢复历史版）",
    "createAt": "2026-10-03T16:12:38.234Z",
-   "updateAt": "2026-10-03T16:13:26.146Z",
+   "updateAt": "2026-10-03T16:13:46.634Z",
    "history": [
+    {
+     "savedAt": "2026-10-03T16:13:26.146Z",
+     "savedBy": "马云启",
+     "title": "回溯功能测试卡",
+     "phen": "第二版内容（已修改）",
+     "premise": "",
+     "method": "",
+     "case_": "",
+     "gov": "",
+     "author": "王子恒"
+    },
     {
      "savedAt": "2026-10-03T16:12:38.234Z",
      "savedBy": "马云启",
